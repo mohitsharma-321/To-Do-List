@@ -1,0 +1,11 @@
+body{
+    background-color:lightslategray
+}
+.btn{
+    border: solid 1pt black;
+}
+
+#ulTasks li.done{
+    color:#6c757d;
+    text-decoration: line-through;
+}
